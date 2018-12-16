@@ -1,9 +1,9 @@
 {
 "companyName": "White Wolf",
 "productName": "Detective Bob",
-"dataUrl": "Detective Bob.data.unityweb",
-"wasmCodeUrl": "Detective Bob.wasm.code.unityweb",
-"wasmFrameworkUrl": "Detective Bob.wasm.framework.unityweb",
+"dataUrl": "DetectiveBob.data.unityweb",
+"wasmCodeUrl": "DetectiveBob.wasm.code.unityweb",
+"wasmFrameworkUrl": "DetectiveBob.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
